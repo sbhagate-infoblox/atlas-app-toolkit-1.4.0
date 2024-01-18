@@ -4,7 +4,7 @@ package infoblox.test;
 
 import "wrappers.proto";
 
-option go_package = "github.com/infobloxopen/atlas-app-toolkit/gateway;gateway_test";
+option go_package = "github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/gateway;gateway_test";
 
 message User {
   string	name = 1;

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/infobloxopen/atlas-app-toolkit/errors"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/errors"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

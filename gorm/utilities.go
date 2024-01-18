@@ -14,8 +14,8 @@ import (
 
 	"time"
 
-	"github.com/infobloxopen/atlas-app-toolkit/rpc/resource"
-	"github.com/infobloxopen/atlas-app-toolkit/util"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/rpc/resource"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/util"
 )
 
 // HandleFieldPath converts fieldPath to appropriate db string for use in where/order by clauses

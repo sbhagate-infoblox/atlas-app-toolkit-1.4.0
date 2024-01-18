@@ -13,8 +13,8 @@ import (
 	"errors"
 
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
-	"github.com/infobloxopen/atlas-app-toolkit/gateway"
-	"github.com/infobloxopen/atlas-app-toolkit/health"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/gateway"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/health"
 	"google.golang.org/grpc"
 )
 

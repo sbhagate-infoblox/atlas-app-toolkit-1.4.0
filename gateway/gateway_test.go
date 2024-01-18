@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/infobloxopen/atlas-app-toolkit/query"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/query"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/metadata"

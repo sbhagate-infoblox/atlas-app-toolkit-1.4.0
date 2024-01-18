@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package atlas.rpc;
 
-option go_package = "github.com/infobloxopen/atlas-app-toolkit/rpc/errfields;errfields";
+option go_package = "github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/rpc/errfields;errfields";
 
 // FieldsInfo is a default representation of field details that conforms
 // REST API Syntax Specification

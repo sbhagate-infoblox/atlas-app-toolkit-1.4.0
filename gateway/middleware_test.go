@@ -3,7 +3,7 @@ package gateway
 import (
 	"testing"
 
-	"github.com/infobloxopen/atlas-app-toolkit/query"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/query"
 )
 
 func TestUnsetOp(t *testing.T) {

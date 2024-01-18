@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/infobloxopen/atlas-app-toolkit/auth"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/auth"
 )
 
 // MakeStandardRequest issues an HTTP request a specific endpoint with Atlas-specific

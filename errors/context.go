@@ -3,7 +3,7 @@ package errors
 import (
 	"context"
 
-	"github.com/infobloxopen/atlas-app-toolkit/rpc/errdetails"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/rpc/errdetails"
 
 	"google.golang.org/grpc/codes"
 )

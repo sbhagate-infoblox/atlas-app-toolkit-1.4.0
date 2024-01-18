@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/infobloxopen/atlas-app-toolkit/util"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/util"
 	"google.golang.org/grpc"
 )
 

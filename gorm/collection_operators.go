@@ -8,7 +8,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/jinzhu/gorm"
 
-	"github.com/infobloxopen/atlas-app-toolkit/query"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/query"
 )
 
 type SortingCriteriaConverter interface {

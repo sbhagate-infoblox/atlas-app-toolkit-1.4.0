@@ -8,7 +8,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/infobloxopen/atlas-app-toolkit/auth"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/auth"
 )
 
 func TestMakeStandardRequest(t *testing.T) {

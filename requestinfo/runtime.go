@@ -2,7 +2,7 @@ package requestinfo
 
 import (
 	"context"
-	"github.com/infobloxopen/atlas-app-toolkit/gateway"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/gateway"
 )
 
 func FromContext(ctx context.Context) (RequestInfo, error) {

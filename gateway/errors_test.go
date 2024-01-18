@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/infobloxopen/atlas-app-toolkit/errors"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/errors"
 
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
 	"google.golang.org/grpc/codes"

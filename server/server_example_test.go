@@ -11,7 +11,7 @@ import (
 	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/gateway"
 	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/health"
 	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/server"
-	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/testdata"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/server/testdata"
 	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/servertest"
 	"golang.org/x/net/context"
 	_ "google.golang.org/genproto/googleapis/api/annotations"

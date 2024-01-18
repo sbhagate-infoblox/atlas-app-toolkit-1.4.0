@@ -11,7 +11,7 @@ import (
 	"go.opencensus.io/trace"
 
 	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/auth"
-	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/cogs"
+	"github.com/sbhagate-infoblox/atlas-app-toolkit-1.4.0/tracing/cogs"
 )
 
 const (
